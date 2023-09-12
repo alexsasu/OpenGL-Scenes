@@ -1,6 +1,6 @@
 # OpenGL-Scenes
 
-Laboratory projects for the Computer Graphics course, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. The teacher for both the course and the laboratory was Sorin Stupariu.
+Individual laboratory projects for the Computer Graphics course, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. The teacher for both the course and the laboratory was Sorin Stupariu.
 
 The project "Car overtaking scene" makes use of **modeling transformations**, as well as the **projection transformation glm::ortho**, in order to create a **2D scene**.
 
