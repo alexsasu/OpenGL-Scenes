@@ -525,7 +525,7 @@ int main(int argc, char* argv[])
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
 	glutInitWindowPosition(100, 100);
 	glutInitWindowSize(800, 600);
-	glutCreateWindow("Overtaking");
+	glutCreateWindow("Car overtaking scene");
 	glewInit();
 	Initialize();
 	glutDisplayFunc(RenderFunction);
