@@ -9,11 +9,11 @@ The project "Courage the Cowardly Dog house scene" makes use of **modeling, view
 <details>
 <summary><h3>Car overtaking scene showcase 🎥:</h3></summary>
 
-![proiect_1_cc2XqgQssE](https://github.com/alexsasu/OpenGL-Scenes/assets/87432371/0385cdc5-d21c-44a0-9892-cdcd2d71575f)
+![proiect_1_cc2XqgQssE](https://github.com/alexsasu/OpenGL-Scenes/assets/87432371/bcb6d55e-9727-4eb0-9ad9-b80ac9c15ade)
 </details>
 
 <details>
 <summary><h3>Courage the Cowardly Dog house scene showcase 🎥:</h3></summary>
 
-![proiect_2_Dtb0DlrIlz](https://github.com/alexsasu/OpenGL-Scenes/assets/87432371/aef483f9-5cfd-406c-a2f9-b3b07b5c65ce)
+![proiect_2_Dtb0DlrIlz](https://github.com/alexsasu/OpenGL-Scenes/assets/87432371/a3110b3a-8c71-4f83-aebc-3d65f2466b8b)
 </details>
